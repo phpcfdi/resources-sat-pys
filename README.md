@@ -56,7 +56,7 @@ Para el formato XML se sigue la siguiente estructura:
 
 ### Formato JSON
 
-Para el formato JSON se sigue una estructura de arreglo de objetos, donde cada objeto tiene una llave `key`, un nombre `name` y ningún o un hijo dependiendo del nivel en la estructura: Un tipos contiene `segments`, un segmento contiene `families`, una familia contiene `classes` y una clase no contiene hijos.
+Para el formato JSON se sigue una estructura de arreglo de objetos, donde cada objeto tiene una llave `key`, un nombre `name` y ningún o un hijo dependiendo del nivel en la estructura: Un *tipo* contiene `segments`, un *segmento* contiene `families`, una *familia* contiene `classes` y una *clase* no contiene hijos.
 
 ```json5
 [
