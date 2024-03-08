@@ -100,16 +100,6 @@ El proceso de actualización es automático y se genera gracias al programa [`ph
 
 En caso de encontrar que el repositorio no está actualizado, por favor genera un `Issue` en este repositorio, explicando qué archivo falta o sobra o contiene datos no actualizados.
 
-## Versiones del proyecto
-
-Este proyecto tiene el siguiente versionado: `Estructura.Datos.Fecha`, por ejemplo `1.5.20191216`.
-
-- `Estructura`: Hay un cambio en la versión mayor si el formato ha cambiado en su estructura.
-- `Datos`: Hay un cambio en la versión menor si han cambiado los datos pero no la estructura.
-- `Fecha`: Hay un cambio siempre que se crea una nueva versión.
-
-El número de versión actual está almacenado en el archivo `data/version.txt`.
-
 ## Acerca de este proyecto
 
 Este recurso se crea dentro de la iniciativa de [PhpCfdi](https://www.phpcfdi.com) para contar con información pública del SAT pero de forma descentralizada, con control de cambios y utilizable en formatos abiertos para sistemas informáticos.
