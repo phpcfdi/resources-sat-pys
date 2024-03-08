@@ -2,7 +2,6 @@
 
 [![Source Code][badge-source]][source]
 [![Discord][badge-discord]][discord]
-[![Latest Version][badge-release]][release]
 [![Build Status][badge-build]][build]
 
 Este repositorio contiene el **Listado de clasificaciones del catálogo de productos y servicios del SAT** que el [Servicio de Administración Tributaria (SAT)](http://www.sat.gob.mx/) expone en la aplicación web llamada [Catálogo de productos y servicios](http://pys.sat.gob.mx/PyS/catPyS.aspx).
@@ -123,10 +122,8 @@ La información dentro de este repositorio debe ser considerada de *dominio púb
 
 [source]: https://github.com/phpcfdi/resources-sat-pys
 [discord]: https://discord.gg/aFGYXvX
-[release]: https://github.com/phpcfdi/resources-sat-pys/releases
 [build]: https://www.phpcfdi.com/resources-app/build/sat-pys
 
 [badge-source]: https://img.shields.io/badge/source-phpcfdi/resources--sat--pys-blue?logo=github
 [badge-discord]: https://img.shields.io/discord/459860554090283019?logo=discord
-[badge-release]: https://img.shields.io/github/v/tag/phpcfdi/resources-sat-pys?label=version&logo=git
 [badge-build]: https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.phpcfdi.com%2Fresources-app%2Fapi%2Fv1%2Fbuilds%2Fsat-pys%2Fshields.io&logo=github-actions
