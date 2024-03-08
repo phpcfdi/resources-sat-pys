@@ -7,3 +7,7 @@ Las modificaciones automáticas deben contener el título: `## <fecha-aaaa-mm-dd
 ## 2024-03-07 Primera liberación
 
 Esta versión fue generada manualmente y se espera que en lo sucesivo sea utilizando una actualización automática.
+
+## 2024-03-07 phpcfdi/sat-pys-scraper:v3.0.0 
+
+Actualización automática con fecha Thu Mar  7 08:48:00 PM CST 2024.
